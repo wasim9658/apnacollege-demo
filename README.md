@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first Ripository
 <br>
-Author - Wasim (ahmed)
+Author - Wasim Ahmed
+Github is working.
